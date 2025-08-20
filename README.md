@@ -1,12 +1,12 @@
 # 🚀 Hi there! I'm CHHAVI GAUTAM 
 <!-- Dynamic Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=2000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+CHHAVI+GAUTAM+👋;Cybersecurity+Specialist+%26+Developer;AI%2FML+Engineer+%26+Data+Scientist;Building+Secure+Solutions+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=2000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+CHHAVI+GAUTAM+👋;Cybersecurity+Specialist;AI/ML+Engineer;Building+Secure+Solutions+🚀" alt="Typing SVG" />
 </div>
 
 <!-- Animated Subtitle -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+undergraduate+specializing+in+Cybersecurity;Java+%7C+Python+%7C+HTML%2FCSS+%7C+JavaScript+%7C+React;Award-winning+developer+seeking+internship+opportunities;Always+learning%2C+always+building+💡" alt="Subtitle Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+undergraduate;Java+|+Python+|+HTML/CSS+|+JavaScript;Award-winning+developer;Always+learning,+always+building+💡" alt="Subtitle Typing SVG" />
 </div>
 
 ---
