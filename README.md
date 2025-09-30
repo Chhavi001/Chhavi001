@@ -2,14 +2,14 @@
 
 <!-- Banner with Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1200&color=00D4AA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Chhavi+Gautam+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Full+Stack+Developer;Building+Smart+and+Secure+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1200&color=00D4AA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Chhavi+Gautam+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI%2FML+Engineer;Building+Smart+and+Secure+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chavvigautam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:chhavi2544gautam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Chhavi001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/your_leetcode_username/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/chhavi1/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
@@ -18,13 +18,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=About%20Me&fontSize=32&fontColor=fff&animation=fadeIn" />
 
 <p align="center">
-  <b>👩‍💻 Computer Science undergraduate | AI/ML Engineer | Full Stack Developer</b><br>
+  <b>👩‍💻 Computer Science undergraduate | Full Stack Developer | AI/ML Engineer</b><br>
   <b>📍 Ghaziabad, India</b>
 </p>
 
 - 🎓 <b>B.Tech (Honors) in Computer Science & Engineering</b> (2022-2026), Ajay Kumar Garg Engineering College
-- 🏆 <b>CGPA:</b> 8.0/10 | <b>Honors Student</b>
-- 💡 <b>Key Interests:</b> AI/ML, Full Stack Development, Data Science, Cybersecurity
+- 🏆 <b>CGPA:</b> 7.8/10 | <b>Honors Student</b>
+- 💡 <b>Key Interests:</b> Full Stack Development, AI/ML, Data Science, Cybersecurity
 - 🏅 <b>Achievements:</b> Junior Hackathon Winner, Anveshana Finalist, Innovation Awardee
 - 🌱 <b>Currently Learning:</b> Advanced Machine Learning, Cloud, System Design
 - 🤝 <b>Open to:</b> Internships, AI/ML & Full Stack Projects, Open Source Collaboration
@@ -107,8 +107,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,9,20&height=120&section=header&text=LeetCode%20Stats&fontSize=28&fontColor=fff&animation=fadeIn" />
 
 <p align="center">
-  <a href="https://leetcode.com/your_leetcode_username/">
-    <img src="https://leetcard.jacoblin.cool/your_leetcode_username?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats" width="400"/>
+  <a href="https://leetcode.com/u/chhavi1/">
+    <img src="https://leetcard.jacoblin.cool/chhavi1?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats" width="400"/>
   </a>
 </p>
 
@@ -129,7 +129,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,25,30&height=120&section=header&text=Let's%20Connect!&fontSize=28&fontColor=fff&animation=fadeIn" />
 
 <p align="center">
-  <b>💬 Open to collaboration, internships, and exciting projects in AI/ML, Full Stack, and Data Science!</b><br>
+  <b>💬 Open to collaboration, internships, and exciting projects in Full Stack, AI/ML, and Data Science!</b><br>
   <b>📫 Reach me at:</b> <a href="mailto:chhavi2544gautam@gmail.com">chhavi2544gautam@gmail.com</a>
 </p>
 
