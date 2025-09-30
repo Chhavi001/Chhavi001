@@ -9,6 +9,7 @@
   <a href="https://www.linkedin.com/in/chavvigautam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:chhavi2544gautam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Chhavi001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/your_leetcode_username/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
@@ -98,6 +99,17 @@
   <img src="https://img.shields.io/badge/Data%20Science%20with%20Python-Infosys%20Springboard-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Infosys%20Springboard-yellow?style=flat-square" />
   <img src="https://img.shields.io/badge/Excellence%20Certificate-Innovation%20Program-purple?style=flat-square" />
+</p>
+
+---
+
+<!-- LeetCode Badges Section -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,9,20&height=120&section=header&text=LeetCode%20Stats&fontSize=28&fontColor=fff&animation=fadeIn" />
+
+<p align="center">
+  <a href="https://leetcode.com/your_leetcode_username/">
+    <img src="https://leetcard.jacoblin.cool/your_leetcode_username?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats" width="400"/>
+  </a>
 </p>
 
 ---
