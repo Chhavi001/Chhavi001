@@ -148,47 +148,43 @@
 
 </div>
 
----
+<!-- GitHub Analytics -->
+<div align="center" style="background:#0d1117; padding:24px; border-radius:12px;">
 
-<!-- GitHub Analytics (Animated, Dark) -->
-<div align="center" style="background:#0d1117; padding:24px 12px; border-radius:12px;">
-
-## 🚀 GitHub Analytics
+## 🚀 My GitHub Analytics 🚀
 
 <!-- Animated divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Black%20and%20White%20Line%20Break.gif" width="80%" alt="divider" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Black%20and%20White%20Line%20Break.gif" alt="Divider" width="90%" />
 </p>
 
-<!-- Stats + Streak -->
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chhavi001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" height="180" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=Chhavi001&theme=tokyonight&hide_border=true&background=0d1117" height="180" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chhavi001&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00FFFF&icon_color=ff5722&text_color=EEEEEE" height="180" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Chhavi001&theme=radical&hide_border=true&background=0d1117&ring=FF4500&dates=00FFFF" height="180" alt="GitHub Streak" />
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chhavi001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chhavi001&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00FFFF&icon_color=00FF00&text_color=EEEEEE" height="180" alt="Top Languages" />
 </p>
 
 <!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chhavi001&theme=react-dark&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chhavi001&theme=github-dark&hide_border=true&bg_color=0d1117&color=70a5fd&line=FFD700&point=ff0000&area=true" width="95%" alt="Contribution Graph"/>
 </p>
 
-<!-- Trophies -->
+<!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chhavi001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Chhavi001&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=5" width="80%" alt="GitHub Trophies"/>
 </p>
 
-<!-- Animated footer divider -->
+<!-- Footer Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Black%20and%20White%20Line%20Break.gif" width="80%" alt="divider" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Black%20and%20White%20Line%20Break.gif" width="90%" alt="Divider" />
 </p>
 
 </div>
-
----
 <!-- Let's Connect Section -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,25,30&height=120&section=header&text=Let's%20Connect!&fontSize=28&fontColor=fff&animation=fadeIn" />
 
