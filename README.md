@@ -103,14 +103,10 @@
 
 ---
 
-<!-- LeetCode Badges Section (no dropdown, no broken links) -->
+<!-- LeetCode Section with Animated Badges -->
 <div align="center">
 
 ## 💻 LeetCode Stats
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,9,20&height=2" />
-
-### 📊 LeetCode Journey
 
 <!-- Main card (reliable) -->
 <p align="center">
@@ -119,12 +115,12 @@
   </a>
 </p>
 
-<!-- Key badges (static values to avoid downtime) -->
-<p align="center">
+<!-- Animated badge strip (marquee) -->
+<marquee behavior="alternate" scrollamount="4" width="90%">
   <img src="https://img.shields.io/badge/🎯_Problems_Solved-509-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" alt="Problems Solved"/>
   <img src="https://img.shields.io/badge/⚡_Contest_Rating-1492-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" alt="Contest Rating"/>
   <img src="https://img.shields.io/badge/🏆_Highest_Rating-1492-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" alt="Highest Rating"/>
-</p>
+</marquee>
 
 <!-- Difficulty breakdown -->
 <p align="center">
