@@ -150,40 +150,40 @@
 
 ---
 
-<!-- GitHub Analytics (Animated, No Dropdown) -->
+<!-- GitHub Analytics (Animated, Dark) -->
 <div align="center" style="background:#0d1117; padding:24px 12px; border-radius:12px;">
 
 ## 🚀 GitHub Analytics
 
-<!-- Animated header bar -->
+<!-- Animated divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Black%20and%20White%20Line%20Break.gif" width="80%" alt="Line Break"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Black%20and%20White%20Line%20Break.gif" width="80%" alt="divider" />
 </p>
 
-<!-- Animated stats row -->
+<!-- Stats + Streak -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chhavi001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" height="180" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=Chhavi001&theme=tokyonight&hide_border=true&background=0d1117" height="180" alt="GitHub Streak"/>
 </p>
 
-<!-- Animated top languages -->
+<!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chhavi001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" height="180" alt="Top Languages"/>
 </p>
 
-<!-- Animated contribution graph -->
+<!-- Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chhavi001&theme=react-dark&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true" width="95%" alt="Contribution Graph"/>
 </p>
 
-<!-- Animated trophies -->
+<!-- Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Chhavi001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%" alt="GitHub Trophies"/>
 </p>
 
-<!-- Animated footer bar -->
+<!-- Animated footer divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Black%20and%20White%20Line%20Break.gif" width="80%" alt="Line Break"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Black%20and%20White%20Line%20Break.gif" width="80%" alt="divider" />
 </p>
 
 </div>
