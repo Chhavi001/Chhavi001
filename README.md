@@ -148,42 +148,39 @@
 
 </div>
 
-
-<!-- GeeksforGeeks Stats -->
+<!-- GeeksforGeeks Stats with Visual Appeal -->
 <h2 align="center">📘 My GeeksforGeeks Profile 📘</h2>
 
-<div align="center" style="background:#0d1117; padding:20px; border-radius:12px; margin-top:40px;">
+<div align="center" style="background:#0d1117; padding:20px; border-radius:12px;">
 
-<!-- GeeksforGeeks Profile Badge -->
+<!-- GFG Profile Banner -->
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/gfg.png" width="70%" alt="GeeksforGeeks" />
+
+<!-- GFG Stats -->
 <p align="center">
-  <a href="https://www.geeksforgeeks.org/profile/chhavi_001?tab=activity">
-    <img src="https://geeks-for-geeks-stats-api-nik.vercel.app/?userName=chhavi_001&bg_color=0d1117&text_color=00ff00&bar_color=FFD700&title_color=FF4500" alt="GeeksforGeeks Stats" width="90%"/>
-  </a>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white&link=https://www.geeksforgeeks.org/profile/chhavi_001?tab=activity" alt="GFG Profile Badge" />
+</p>
+
+<h3 align="center">📊 Statistics</h3>
+<p align="center">
+  <img src="https://media.tenor.com/6Om-BHdJX5cAAAAC/matrix-code.gif" width="65%" alt="GFG Stats" />
+</p>
+
+<!-- Link to GFG Profile -->
+<p align="center">
+  <b>Check out my activity and achievements on <a href="https://www.geeksforgeeks.org/profile/chhavi_001?tab=activity" target="_blank">GeeksforGeeks</a>!</b>
+</p>
+
+<h3 align="center">🚀 GFG Contributions</h3>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/5b2f86512320233b72a69b5b33b05e1f6c4d6e4577c02a0121519b19ed1b3ffb/68747470733a2f2f696d616765732e756e73706c6173682e636f6d2f70686f746f732f323132303032362f6765656b732d666f722d6765656b73732d3166396532323431656434313132632e363136373634363961633232666634382e706e67" alt="GFG Contributions" width="80%" />
 </p>
 
 <p align="center">
-  <b>Check out my activity and achievements on <a href="https://www.geeksforgeeks.org/profile/chhavi_001?tab=activity">GeeksforGeeks</a>!</b>
-</p>
-
-<!-- GFG profile card with activity -->
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/profile/chhavi_001?tab=activity">
-    <img src="https://github-readme-gfg-stats.vercel.app/api?username=chhavi_001&theme=dark&hide_border=true" alt="GfG Profile Stats" width="70%" />
-  </a>
-</p>
-  
-<!-- Add GFG Contributions -->
-<h3 align="center">GFG Contributions</h3>
-<p align="center">
-  <img src="https://geeks-for-geeks-readme-stats.axiom.vercel.app/_next/image?profile=chhavi_001" width="90%" alt="GFG Contribution Stats">
-</p>
-
-<p align="center">
-  If you enjoy reading my solutions, don't forget to ⭐ my profile!
+  <b>If you enjoy reading my solutions, don't forget to ⭐ my profile!</b>
 </p>
 
 </div>
-
 
 <!-- GitHub Analytics -->
 <div align="center" style="background:#0d1117; padding:24px 12px; border-radius:12px; margin-top:40px;">
