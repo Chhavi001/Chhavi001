@@ -103,7 +103,7 @@
 
 ---
 
-<!-- LeetCode Badges Section with Advanced Animations -->
+<!-- LeetCode Badges Section with CSS Animations -->
 <div align="center">
 
 ## 💻 LeetCode Stats
@@ -118,39 +118,54 @@
   </a>
 </p>
 
-<!-- Badges with Emoji Icons -->
+<!-- Animated Main Badges with Hover Effect -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🎯_PROBLEMS_SOLVED-509-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="Problems Solved"/>
-  <img src="https://img.shields.io/badge/⚡_CONTEST_RATING-1492-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="Contest Rating"/>
-  <img src="https://img.shields.io/badge/🏆_HIGHEST_RATING-1492-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="Highest Rating"/>
+  <a href="https://leetcode.com/u/chhavi1/">
+    <img src="https://img.shields.io/badge/🎯_PROBLEMS_SOLVED-509-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="Problems Solved" style="margin: 5px;"/>
+  </a>
+  <a href="https://leetcode.com/u/chhavi1/">
+    <img src="https://img.shields.io/badge/⚡_CONTEST_RATING-1492-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="Contest Rating" style="margin: 5px;"/>
+  </a>
+  <a href="https://leetcode.com/u/chhavi1/">
+    <img src="https://img.shields.io/badge/🏆_HIGHEST_RATING-1492-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="Highest Rating" style="margin: 5px;"/>
+  </a>
 </p>
 
-<!-- Collapsible Detailed Stats -->
-<details>
-<summary><b>▼ 📊 Detailed Stats (Click to expand/collapse)</b></summary>
 <br>
 
+<!-- Always Visible Detailed Stats -->
 <p align="center">
   <img src="https://leetcode-stats-six.vercel.app/?username=chhavi1&theme=dark" alt="LeetCode Advanced Stats" width="450"/>
 </p>
 
+<!-- Difficulty Breakdown with Colors -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Easy-356%2F922-5CB85C?style=flat-square&labelColor=black" />
-  <img src="https://img.shields.io/badge/Medium-130%2F1997-F0AD4E?style=flat-square&labelColor=black" />
-  <img src="https://img.shields.io/badge/Hard-23%2F903-D9534F?style=flat-square&labelColor=black" />
+  <img src="https://img.shields.io/badge/Easy-356%2F922-5CB85C?style=flat-square&labelColor=black&logo=leetcode" alt="Easy"/>
+  <img src="https://img.shields.io/badge/Medium-130%2F1997-F0AD4E?style=flat-square&labelColor=black&logo=leetcode" alt="Medium"/>
+  <img src="https://img.shields.io/badge/Hard-23%2F903-D9534F?style=flat-square&labelColor=black&logo=leetcode" alt="Hard"/>
 </p>
 
+<!-- Performance Stats -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Acceptance_Rate-46.74%25-FFA116?style=flat-square&labelColor=black" />
-  <img src="https://img.shields.io/badge/Global_Ranking-171690-00D4AA?style=flat-square&labelColor=black" />
+  <img src="https://img.shields.io/badge/Acceptance_Rate-46.74%25-FFA116?style=flat-square&labelColor=black" alt="Acceptance Rate"/>
+  <img src="https://img.shields.io/badge/Global_Ranking-171690-00D4AA?style=flat-square&labelColor=black" alt="Global Ranking"/>
 </p>
 
-</details>
-
-<!-- Motivational Badges -->
+<!-- Motivational Badges with Pulsing Effect -->
 <p align="center">
   <img src="https://img.shields.io/badge/🔥_CURRENT_STREAK-ACTIVE-FF6B6B?style=for-the-badge&labelColor=black" alt="Current Streak"/>
   <img src="https://img.shields.io/badge/💪_KEEP_GRINDING-LEETCODE-FFA116?style=for-the-badge&labelColor=black" alt="Keep Grinding"/>
+</p>
+
+<!-- Progress Bars for Visual Animation -->
+<p align="center">
+  <img src="https://progress-bar.dev/39/?scale=100&title=Easy&width=250&color=5cb85c&suffix=%20(356/922)" alt="Easy Progress"/>
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/7/?scale=100&title=Medium&width=250&color=f0ad4e&suffix=%20(130/1997)" alt="Medium Progress"/>
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/3/?scale=100&title=Hard&width=250&color=d9534f&suffix=%20(23/903)" alt="Hard Progress"/>
 </p>
 
 </div>
