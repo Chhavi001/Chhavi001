@@ -105,7 +105,9 @@
 
 ---
 
-<!-- LeetCode Badges Section with Rotating Animation -->
+---
+
+<!-- LeetCode Badges Section with Advanced Animations -->
 <div align="center">
 
 ## 💻 LeetCode Stats
@@ -116,24 +118,24 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/chhavi1/">
-    <img src="https://leetcard.jacoblin.cool/chhavi1?theme=dark&font=Fira+Code&ext=contest&animation=true" alt="LeetCode Stats" width="500"/>
+    <img src="https://leetcard.jacoblin.cool/chhavi1?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats" width="500"/>
   </a>
 </p>
 
-<!-- Rotating Badges with Animation -->
+<!-- Badges with Emoji Icons -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🎯_Problems_Solved-509-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="Problems Solved"/>
-  <img src="https://img.shields.io/badge/⚡_Contest_Rating-1492-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="Contest Rating"/>
-  <img src="https://img.shields.io/badge/🏆_Highest_Rating-1492-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="Highest Rating"/>
+  <img src="https://img.shields.io/badge/🎯_PROBLEMS_SOLVED-509-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/⚡_CONTEST_RATING-1492-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="Contest Rating"/>
+  <img src="https://img.shields.io/badge/🏆_HIGHEST_RATING-1492-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="Highest Rating"/>
 </p>
 
-<!-- Animated LeetCode Stats Cards -->
-<details open>
-<summary><b>📈 Detailed Stats (Click to expand/collapse)</b></summary>
+<!-- Collapsible Detailed Stats -->
+<details>
+<summary><b>▼ 📊 Detailed Stats (Click to expand/collapse)</b></summary>
 <br>
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=chhavi1&theme=dark" alt="LeetCode Advanced Stats" width="400"/>
+  <img src="https://leetcode-stats-six.vercel.app/?username=chhavi1&theme=dark" alt="LeetCode Advanced Stats" width="450"/>
 </p>
 
 <p align="center">
@@ -149,14 +151,15 @@
 
 </details>
 
-<!-- Rotating Badge Animation using HTML -->
+<!-- Motivational Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥_Current_Streak-Active-FF6B6B?style=for-the-badge&labelColor=black" style="animation: pulse 2s ease-in-out infinite;"/>
-  <img src="https://img.shields.io/badge/💪_Keep_Grinding-LeetCode-FFA116?style=for-the-badge&labelColor=black" style="animation: bounce 2s ease-in-out infinite;"/>
+  <img src="https://img.shields.io/badge/🔥_CURRENT_STREAK-ACTIVE-FF6B6B?style=for-the-badge&labelColor=black" alt="Current Streak"/>
+  <img src="https://img.shields.io/badge/💪_KEEP_GRINDING-LEETCODE-FFA116?style=for-the-badge&labelColor=black" alt="Keep Grinding"/>
 </p>
 
 </div>
 
+---
 ---
 ---
 
