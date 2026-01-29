@@ -103,10 +103,6 @@
 
 ---
 
----
-
----
-
 <!-- LeetCode Badges Section with Advanced Animations -->
 <div align="center">
 
@@ -159,8 +155,6 @@
 
 </div>
 
----
----
 ---
 
 <!-- GitHub Analytics -->
