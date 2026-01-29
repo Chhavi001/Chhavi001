@@ -105,7 +105,7 @@
 
 ---
 
-<!-- LeetCode Badges Section -->
+<!-- LeetCode Badges Section with Rotating Animation -->
 <div align="center">
 
 ## 💻 LeetCode Stats
@@ -116,20 +116,48 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/chhavi1/">
-    <img src="https://leetcard.jacoblin.cool/chhavi1?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats" width="500"/>
+    <img src="https://leetcard.jacoblin.cool/chhavi1?theme=dark&font=Fira+Code&ext=contest&animation=true" alt="LeetCode Stats" width="500"/>
   </a>
 </p>
 
+<!-- Rotating Badges with Animation -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-509-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="Problems Solved"/>
-  <img src="https://img.shields.io/badge/Contest%20Rating-1492-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="Contest Rating"/>
-  <img src="https://img.shields.io/badge/Highest%20Rating-1492-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="Highest Rating"/>
+  <img src="https://img.shields.io/badge/🎯_Problems_Solved-509-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/⚡_Contest_Rating-1492-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="Contest Rating"/>
+  <img src="https://img.shields.io/badge/🏆_Highest_Rating-1492-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="Highest Rating"/>
+</p>
+
+<!-- Animated LeetCode Stats Cards -->
+<details open>
+<summary><b>📈 Detailed Stats (Click to expand/collapse)</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=chhavi1&theme=dark" alt="LeetCode Advanced Stats" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Easy-356%2F922-5CB85C?style=flat-square&labelColor=black" />
+  <img src="https://img.shields.io/badge/Medium-130%2F1997-F0AD4E?style=flat-square&labelColor=black" />
+  <img src="https://img.shields.io/badge/Hard-23%2F903-D9534F?style=flat-square&labelColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Acceptance_Rate-46.74%25-FFA116?style=flat-square&labelColor=black" />
+  <img src="https://img.shields.io/badge/Global_Ranking-171690-00D4AA?style=flat-square&labelColor=black" />
+</p>
+
+</details>
+
+<!-- Rotating Badge Animation using HTML -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥_Current_Streak-Active-FF6B6B?style=for-the-badge&labelColor=black" style="animation: pulse 2s ease-in-out infinite;"/>
+  <img src="https://img.shields.io/badge/💪_Keep_Grinding-LeetCode-FFA116?style=for-the-badge&labelColor=black" style="animation: bounce 2s ease-in-out infinite;"/>
 </p>
 
 </div>
 
 ---
-
 ---
 
 <!-- GitHub Analytics -->
