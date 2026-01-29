@@ -155,32 +155,38 @@
 
 <!-- GFG Logo -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="150" alt="GeeksforGeeks Logo" />
-</p>
-
-<!-- GFG Profile Badge -->
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/profile/chhavi_001?tab=activity" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Go to my GFG Profile" />
+  <a href="https://www.geeksforgeeks.org/profile/chhavi_001" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="120" alt="GFG Logo" />
   </a>
 </p>
 
-<h3 align="center">📊 Check Out My Achievements!</h3>
+<!-- GFG Stats Summary -->
+<div style="display: flex; flex-direction: column; align-items: center; padding-top: 10px;">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/resources/gfg_profile_screenshot.png" alt="GFG Stats" width="80%" style="border-radius: 12px; border: 2px solid #2DBE60;" />
+</div>
 
-<!-- GFG Stats Button -->
+<!-- Profile Information -->
 <p align="center">
-  <img src="https://www.statsfm.com/static/built/shareable-widgets/01.png" width="80%" alt="My GeeksforGeeks Stats" />
+  <b>👩‍💻 <strong>Coding Score:</strong> 1147</b> | 
+  <b><strong>Problems Solved:</strong> 433</b> | 
+  <b><strong>Institute Rank:</strong> 121</b>
 </p>
 
-<h3 align="center">🚀 GFG Contributions</h3>
-
-<!-- GFG Contributions -->
+<!-- Coding Streak Section -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/200.gif" width="80%" alt="Coding Contributions Animation" />
+  <span style="font-weight: bold; font-size: 1.1em;">
+    🌟 Longest Streak: <b>1 Day</b> | 🔥 POTD Solved: <b>2</b> 🌟
+  </span>
+</p>
+
+<!-- Activity Graph -->
+<h3 align="center">💹 Yearly Coding Submissions 💹</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/resources/gfg_submissions_heatmap.png" alt="GFG Yearly Submissions Heatmap" width="80%" style="border-radius: 12px; border: 2px solid #34A853;" />
 </p>
 
 <p align="center">
-  <b>Explore more on my <a href="https://www.geeksforgeeks.org/profile/chhavi_001?tab=activity" target="_blank">GeeksforGeeks Activity Page</a>!</b>
+  <b>Explore more on my <a href="https://www.geeksforgeeks.org/profile/chhavi_001" target="_blank">GeeksforGeeks Profile</a> to see the latest updates!</b>
 </p>
 
 </div>
