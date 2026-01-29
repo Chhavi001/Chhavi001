@@ -148,36 +148,39 @@
 
 </div>
 
-<!-- GeeksforGeeks Stats with Visual Appeal -->
+<!-- GeeksforGeeks Section -->
 <h2 align="center">📘 My GeeksforGeeks Profile 📘</h2>
 
 <div align="center" style="background:#0d1117; padding:20px; border-radius:12px;">
 
-<!-- GFG Profile Banner -->
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/gfg.png" width="70%" alt="GeeksforGeeks" />
-
-<!-- GFG Stats -->
+<!-- GFG Logo -->
 <p align="center">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white&link=https://www.geeksforgeeks.org/profile/chhavi_001?tab=activity" alt="GFG Profile Badge" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="150" alt="GeeksforGeeks Logo" />
 </p>
 
-<h3 align="center">📊 Statistics</h3>
+<!-- GFG Profile Badge -->
 <p align="center">
-  <img src="https://media.tenor.com/6Om-BHdJX5cAAAAC/matrix-code.gif" width="65%" alt="GFG Stats" />
+  <a href="https://www.geeksforgeeks.org/profile/chhavi_001?tab=activity" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Go to my GFG Profile" />
+  </a>
 </p>
 
-<!-- Link to GFG Profile -->
+<h3 align="center">📊 Check Out My Achievements!</h3>
+
+<!-- GFG Stats Button -->
 <p align="center">
-  <b>Check out my activity and achievements on <a href="https://www.geeksforgeeks.org/profile/chhavi_001?tab=activity" target="_blank">GeeksforGeeks</a>!</b>
+  <img src="https://www.statsfm.com/static/built/shareable-widgets/01.png" width="80%" alt="My GeeksforGeeks Stats" />
 </p>
 
 <h3 align="center">🚀 GFG Contributions</h3>
+
+<!-- GFG Contributions -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/5b2f86512320233b72a69b5b33b05e1f6c4d6e4577c02a0121519b19ed1b3ffb/68747470733a2f2f696d616765732e756e73706c6173682e636f6d2f70686f746f732f323132303032362f6765656b732d666f722d6765656b73732d3166396532323431656434313132632e363136373634363961633232666634382e706e67" alt="GFG Contributions" width="80%" />
+  <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/200.gif" width="80%" alt="Coding Contributions Animation" />
 </p>
 
 <p align="center">
-  <b>If you enjoy reading my solutions, don't forget to ⭐ my profile!</b>
+  <b>Explore more on my <a href="https://www.geeksforgeeks.org/profile/chhavi_001?tab=activity" target="_blank">GeeksforGeeks Activity Page</a>!</b>
 </p>
 
 </div>
