@@ -103,10 +103,14 @@
 
 ---
 
-<!-- LeetCode Badges Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,9,20&height=120&section=header&text=LeetCode%20Stats&fontSize=28&fontColor=fff&animation=fadeIn" />
+---
 
+<!-- LeetCode Badges Section -->
 <div align="center">
+
+## 💻 LeetCode Stats
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,9,20&height=2" />
 
 ### 📊 LeetCode Journey
 
@@ -123,6 +127,8 @@
 </p>
 
 </div>
+
+---
 
 ---
 
