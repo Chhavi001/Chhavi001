@@ -103,24 +103,29 @@
 
 ---
 
-<!-- LeetCode Section with Animated Badges -->
+<!-- LeetCode Badges Section -->
 <div align="center">
 
 ## 💻 LeetCode Stats
 
-<!-- Main card (reliable) -->
+<!-- Animated rotating badges (showcase) -->
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=chhavi1&animated=true" alt="LeetCode Badges" width="520"/>
+</p>
+
+<!-- Main LeetCode card -->
 <p align="center">
   <a href="https://leetcode.com/u/chhavi1/">
     <img src="https://leetcard.jacoblin.cool/chhavi1?theme=dark&font=Fira+Code&ext=contest&border=0" alt="LeetCode Stats" width="520"/>
   </a>
 </p>
 
-<!-- Animated badge strip (marquee) -->
-<marquee behavior="alternate" scrollamount="4" width="90%">
+<!-- Key badges -->
+<p align="center">
   <img src="https://img.shields.io/badge/🎯_Problems_Solved-509-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" alt="Problems Solved"/>
   <img src="https://img.shields.io/badge/⚡_Contest_Rating-1492-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" alt="Contest Rating"/>
   <img src="https://img.shields.io/badge/🏆_Highest_Rating-1492-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" alt="Highest Rating"/>
-</marquee>
+</p>
 
 <!-- Difficulty breakdown -->
 <p align="center">
