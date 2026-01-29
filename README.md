@@ -35,7 +35,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,25,30&height=120&section=header&text=Tech%20Stack&fontSize=28&fontColor=fff&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,html,css,tailwind,git,github,opencv,tensorflow,sklearn,mysql,firebase,figma" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,html,css,tailwind,git,github,opencv,tensorflow,sklearn,mysql,firebase,figma&perline=8" />
 </p>
 
 <p align="center">
@@ -89,12 +89,12 @@
 
 <p align="center">
   <b>🏆 Junior Hackathon Winner (1st/150+ teams)</b> &nbsp; | &nbsp;
-  <b>Mini Anveshana Finalist</b> &nbsp; | &nbsp;
-  <b>Innovation Award - IoT Project</b>
+  <b>🎯 Mini Anveshana Finalist</b> &nbsp; | &nbsp;
+  <b>💡 Innovation Award - IoT Project</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analytics-Google%20Coursera-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-Google%20Coursera-blue?style=flat-square&logo=google" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-Simplilearn-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Data%20Science%20with%20Python-Infosys%20Springboard-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Infosys%20Springboard-yellow?style=flat-square" />
@@ -103,13 +103,23 @@
 
 ---
 
-<!-- LeetCode Badges Section -->
+<!-- LeetCode Badges Section with Rotation Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,9,20&height=120&section=header&text=LeetCode%20Stats&fontSize=28&fontColor=fff&animation=fadeIn" />
 
 <p align="center">
   <a href="https://leetcode.com/u/chhavi1/">
-    <img src="https://leetcard.jacoblin.cool/chhavi1?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats" width="400"/>
+    <img src="https://leetcard.jacoblin.cool/chhavi1?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats" width="500"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fchhavi1&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fchhavi1&logo=leetcode&logoColor=yellow" alt="LeetCode Rating"/>
+</p>
+
+<!-- LeetCode Animated Progress Circle -->
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=chhavi1&theme=dark" alt="LeetCode Stats Animation" width="400"/>
 </p>
 
 ---
@@ -118,9 +128,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,9,20&height=120&section=header&text=GitHub%20Analytics&fontSize=28&fontColor=fff&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chhavi001&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chhavi001&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chhavi001&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chhavi001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chhavi001&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chhavi001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chhavi001&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chhavi001&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </p>
 
 ---
@@ -135,17 +154,29 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chhavi001&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Chhavi001?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/Chhavi001?label=Total%20Stars&style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/followers/Chhavi001?label=Followers&style=for-the-badge&color=blue&logo=github" />
+  <img src="https://img.shields.io/github/stars/Chhavi001?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" />
 </p>
 
 ---
 
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chhavi001/Chhavi001/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chhavi001/Chhavi001/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chhavi001/Chhavi001/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!;Always+learning+and+innovating+🚀" alt="Collaboration" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!;Always+learning+and+innovating+🚀;Code.+Create.+Innovate.+Repeat." alt="Collaboration" />
 </p>
 
 <p align="center">
   <b>⭐ If you like my work, consider giving it a star!</b><br>
   <b>🤝 Always open to feedback and collaboration opportunities!</b>
 </p>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
