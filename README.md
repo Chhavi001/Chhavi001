@@ -103,14 +103,14 @@
 
 ---
 
-<!-- LeetCode Badges Section -->
-<div align="center">
+<!-- LeetCode Badges Section (Black Background) -->
+<div align="center" style="background:#0d1117; padding:24px 12px; border-radius:12px;">
 
 ## 💻 LeetCode Stats
 
 <!-- Animated rotating badges (showcase) -->
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=chhavi1&animated=true" alt="LeetCode Badges" width="520"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=chhavi1&animated=true&theme=dark" alt="LeetCode Badges" width="520"/>
 </p>
 
 <!-- Main LeetCode card -->
