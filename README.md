@@ -150,30 +150,43 @@
 
 ---
 
-<!-- GitHub Analytics -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,9,20&height=120&section=header&text=GitHub%20Analytics&fontSize=28&fontColor=fff&animation=fadeIn" />
+<!-- GitHub Analytics (Animated) -->
+<div align="center" style="background:#0d1117; padding:24px 12px; border-radius:12px;">
 
+## 📈 GitHub Analytics
+
+<!-- Animated profile details card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chhavi001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chhavi001&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chhavi001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" height="180" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Chhavi001&theme=tokyonight&hide_border=true&background=0d1117" height="180" alt="GitHub Streak"/>
 </p>
 
+<!-- Animated top languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chhavi001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chhavi001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" height="180" alt="Top Languages"/>
 </p>
 
-<!-- GitHub Activity Graph -->
+<!-- Animated contribution graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chhavi001&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chhavi001&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true" width="95%" alt="Contribution Graph"/>
 </p>
 
-<!-- GitHub Trophies -->
+<!-- Animated trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chhavi001&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="95%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Chhavi001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="95%" alt="GitHub Trophies"/>
 </p>
+
+<!-- Animated contribution snake (requires action; optional) -->
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chhavi001/Chhavi001/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chhavi001/Chhavi001/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chhavi001/Chhavi001/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+-->
+</div>
 
 ---
-
 <!-- Let's Connect Section -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,25,30&height=120&section=header&text=Let's%20Connect!&fontSize=28&fontColor=fff&animation=fadeIn" />
 
