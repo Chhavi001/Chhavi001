@@ -2,7 +2,7 @@
 
 <!-- Banner with Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1200&color=00D4AA&center=true&vCenter=true&width=750&lines=Hi,+I'm+Chhavi+Gautam+👋;Full+Stack+Developer+|+AI/ML+Engineer;Building+Smart+and+Secure+Solutions+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Hi+I'm+Chhavi+Gautam+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI%2FML+Engineer;Building+Smart+and+Secure+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -103,12 +103,12 @@
 
 ---
 
-<!-- LeetCode Badges Section with Animation -->
+<!-- LeetCode Badges Section -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,9,20&height=120&section=header&text=LeetCode%20Stats&fontSize=28&fontColor=fff&animation=fadeIn" />
 
 <div align="center">
 
-### 📊 LeetCode Profile Stats
+### 📊 LeetCode Journey
 
 <p align="center">
   <a href="https://leetcode.com/u/chhavi1/">
@@ -117,14 +117,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Problems%20Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fchhavi1&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
-  <img src="https://img.shields.io/badge/Ranking-1492-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="LeetCode Ranking"/>
+  <img src="https://img.shields.io/badge/Problems%20Solved-509-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="Problems Solved"/>
   <img src="https://img.shields.io/badge/Contest%20Rating-1492-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="Contest Rating"/>
-</p>
-
-<!-- Animated LeetCode Progress Bar -->
-<p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=chhavi1&theme=dark" alt="LeetCode Stats" width="450"/>
+  <img src="https://img.shields.io/badge/Highest%20Rating-1492-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="Highest Rating"/>
 </p>
 
 </div>
@@ -135,22 +130,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,9,20&height=120&section=header&text=GitHub%20Analytics&fontSize=28&fontColor=fff&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chhavi001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chhavi001&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chhavi001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chhavi001&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chhavi001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chhavi001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 </p>
 
 <!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chhavi001&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chhavi001&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" width="95%" alt="Contribution Graph"/>
 </p>
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chhavi001&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Chhavi001&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="95%" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -164,26 +159,15 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chhavi001&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Chhavi001?label=Followers&style=for-the-badge&color=blue&logo=github" />
-  <img src="https://img.shields.io/github/stars/Chhavi001?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github&affiliations=OWNER" />
+  <img src="https://komarev.com/ghpvc/?username=Chhavi001&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Chhavi001?label=Followers&style=for-the-badge&color=blue&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Chhavi001?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github&affiliations=OWNER" alt="Stars"/>
 </p>
 
 ---
 
-<!-- Contribution Snake Animation -->
-<div align="center">
-  
-### 🐍 Watch my contribution graph get eaten by the snake!
-
-![Snake animation](https://raw.githubusercontent.com/Chhavi001/Chhavi001/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!;Always+learning+and+innovating+🚀;Code.+Create.+Innovate.+Repeat.;Open+to+new+opportunities!" alt="Collaboration" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!;Always+learning+and+innovating+%F0%9F%9A%80;Code.+Create.+Innovate.+Repeat.;Open+to+new+opportunities!" alt="Typing Footer" />
 </p>
 
 <p align="center">
