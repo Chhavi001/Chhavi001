@@ -265,10 +265,7 @@
 <!-- Animated/GitTools: Badges and ReadMe analytics -->
 <h3 align="center">⚡ Git Stats Summary ⚡</h3>
 
-<p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Chhavi001&theme=darktheme" alt="Advanced GitHub Stats" width="500" />
 
-</p>
 
 
 </div>
