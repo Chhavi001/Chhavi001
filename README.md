@@ -252,12 +252,8 @@
   ### 🌦️ [Todo App](https://github.com/Chhavi001/todo-app)
   Task management with live weather integration | React, Redux, OpenWeatherMap API
   
-  ### 📸 [Python Face Detection](https://github.com/Chhavi001/pythonFaceDetection)
-  Real-time face detection system | Python, OpenCV, Computer Vision
-  
-</div>
-
-
+  ### 🔐 [KeyCrypt](https://github.com/Chhavi001/KeyCrypt)  
+  Secure text encryption tool for chats, notes & secrets | Java, Offline Encryption
 <!-- GitHub Contribution Chart -->
 <h3 align="center">⭐ GitHub Contributions ⭐</h3>
 <p align="center">
