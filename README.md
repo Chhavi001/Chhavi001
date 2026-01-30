@@ -244,31 +244,32 @@
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td width="50%">
         <a href="https://github.com/Chhavi001/interview-mocker">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chhavi001&repo=interview-mocker&theme=radical&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Chhavi001&repo=interview-mocker&theme=radical&hide_border=true&border_radius=15" />
         </a>
       </td>
-      <td>
+      <td width="50%">
         <a href="https://github.com/Chhavi001/Cursor-movement-by-hand">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chhavi001&repo=Cursor-movement-by-hand&theme=radical&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Chhavi001&repo=Cursor-movement-by-hand&theme=radical&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="50%">
         <a href="https://github.com/Chhavi001/todo-app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chhavi001&repo=todo-app&theme=radical&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Chhavi001&repo=todo-app&theme=radical&hide_border=true&border_radius=15" />
         </a>
       </td>
-      <td>
+      <td width="50%">
         <a href="https://github.com/Chhavi001/pythonFaceDetection">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chhavi001&repo=pythonFaceDetection&theme=radical&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Chhavi001&repo=pythonFaceDetection&theme=radical&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
   </table>
 </div>
+
 
 <!-- GitHub Contribution Chart -->
 <h3 align="center">⭐ GitHub Contributions ⭐</h3>
