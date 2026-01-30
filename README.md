@@ -242,32 +242,19 @@
 <!-- Top Repositories -->
 <h3 align="center">Top Repositories</h3>
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Chhavi001/interview-mocker">
-          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Chhavi001&repo=interview-mocker&theme=radical&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Chhavi001/Cursor-movement-by-hand">
-          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Chhavi001&repo=Cursor-movement-by-hand&theme=radical&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Chhavi001/todo-app">
-          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Chhavi001&repo=todo-app&theme=radical&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Chhavi001/pythonFaceDetection">
-          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Chhavi001&repo=pythonFaceDetection&theme=radical&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  
+  ### 🎤 [Interview Mocker](https://github.com/Chhavi001/interview-mocker)
+  AI-powered interview prep platform | React, TypeScript, Tailwind, Firebase
+  
+  ### 👁️ [Cursor Movement by Hand](https://github.com/Chhavi001/Cursor-movement-by-hand)
+  Hands-free cursor control via gesture recognition | Python, OpenCV, Mediapipe
+  
+  ### 🌦️ [Todo App](https://github.com/Chhavi001/todo-app)
+  Task management with live weather integration | React, Redux, OpenWeatherMap API
+  
+  ### 📸 [Python Face Detection](https://github.com/Chhavi001/pythonFaceDetection)
+  Real-time face detection system | Python, OpenCV, Computer Vision
+  
 </div>
 
 
