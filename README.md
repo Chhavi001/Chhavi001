@@ -151,43 +151,53 @@
 <!-- GeeksforGeeks Section -->
 <h2 align="center">📘 My GeeksforGeeks Profile 📘</h2>
 
-<div align="center" style="background:#0d1117; padding:20px; border-radius:12px;">
+<div align="center">
 
-<!-- GFG Logo -->
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/profile/chhavi_001" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="120" alt="GFG Logo" />
-  </a>
-</p>
+  <!-- GFG Logo -->
+  <p align="center">
+    <a href="https://www.geeksforgeeks.org/profile/chhavi_001" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
+           width="120" alt="GFG Logo" />
+    </a>
+  </p>
 
-<!-- GFG Stats Summary -->
-<div style="display: flex; flex-direction: column; align-items: center; padding-top: 10px;">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/resources/gfg_profile_screenshot.png" alt="GFG Stats" width="80%" style="border-radius: 12px; border: 2px solid #2DBE60;" />
-</div>
+  <!-- GFG Stats Screenshot -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Chhavi001/Chhavi001/main/resources/gfg_profile_screenshot.png"
+         alt="GFG Stats" width="80%"
+         style="border-radius: 12px; border: 2px solid #2DBE60;" />
+  </p>
 
-<!-- Profile Information -->
-<p align="center">
-  <b>👩‍💻 <strong>Coding Score:</strong> 1147</b> | 
-  <b><strong>Problems Solved:</strong> 433</b> | 
-  <b><strong>Institute Rank:</strong> 121</b>
-</p>
+  <!-- Profile Information -->
+  <p align="center">
+    <b>👩‍💻 <strong>Coding Score:</strong> 1147</b> |
+    <b><strong>Problems Solved:</strong> 433</b> |
+    <b><strong>Institute Rank:</strong> 121</b>
+  </p>
 
-<!-- Coding Streak Section -->
-<p align="center">
-  <span style="font-weight: bold; font-size: 1.1em;">
-    🌟 Longest Streak: <b>1 Day</b> | 🔥 POTD Solved: <b>2</b> 🌟
-  </span>
-</p>
+  <!-- Coding Streak Section -->
+  <p align="center">
+    <span style="font-weight: bold; font-size: 1.1em;">
+      🌟 Longest Streak: <b>1 Day</b> | 🔥 POTD Solved: <b>2</b> 🌟
+    </span>
+  </p>
 
-<!-- Activity Graph -->
-<h3 align="center">💹 Yearly Coding Submissions 💹</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/resources/gfg_submissions_heatmap.png" alt="GFG Yearly Submissions Heatmap" width="80%" style="border-radius: 12px; border: 2px solid #34A853;" />
-</p>
+  <!-- Yearly Submissions Heatmap -->
+  <h3 align="center">💹 Yearly Coding Submissions 💹</h3>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Chhavi001/Chhavi001/main/resources/gfg_submissions_heatmap.png"
+         alt="GFG Yearly Submissions Heatmap" width="80%"
+         style="border-radius: 12px; border: 2px solid #34A853;" />
+  </p>
 
-<p align="center">
-  <b>Explore more on my <a href="https://www.geeksforgeeks.org/profile/chhavi_001" target="_blank">GeeksforGeeks Profile</a> to see the latest updates!</b>
-</p>
+  <p align="center">
+    <b>Explore more on my
+      <a href="https://www.geeksforgeeks.org/profile/chhavi_001" target="_blank">
+        GeeksforGeeks Profile
+      </a>
+      to see the latest updates!
+    </b>
+  </p>
 
 </div>
 
