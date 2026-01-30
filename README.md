@@ -279,16 +279,13 @@
 </p>
 
 <!-- Animated/GitTools: Badges and ReadMe analytics -->
-<details>
-  <summary style="font-size: 1.1em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="15"/> Git Stats Summary
-  </summary>
+<h3 align="center">⚡ Git Stats Summary ⚡</h3>
 
 <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Chhavi001&theme=darktheme" alt="Advanced GitHub Stats" width="500" />
   <img src="https://myreadme.vercel.app/api/embed/Chhavi001?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="MyReadMe Analytics" width="90%"/>
 </p>
-</details>
+
 
 </div>
 <!-- Let's Connect Section -->
