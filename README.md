@@ -283,7 +283,7 @@
 
 <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Chhavi001&theme=darktheme" alt="Advanced GitHub Stats" width="500" />
-  <img src="https://myreadme.vercel.app/api/embed/Chhavi001?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="MyReadMe Analytics" width="90%"/>
+
 </p>
 
 
