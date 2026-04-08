@@ -85,6 +85,9 @@
 ---
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&width=900&lines=Contributing+to+Open+Source+one+PR+at+a+time+%F0%9F%9A%80;Building+cleaner+and+better+developer+tools+%F0%9F%92%BB;Learning+through+real-world+collaboration+%F0%9F%8C%9F" alt="Open Source Typing Animation" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Open%20Source&fontSize=28&fontColor=fff&animation=fadeIn" />
 
@@ -93,6 +96,9 @@
 - [Storm](https://github.com/orchetron/storm): Contributed to the devtools demo of this compositor-based terminal UI framework by replacing an imperative `setInterval` timer with the framework’s `useTick` hook, aligning the example with project best practices and improving readability and maintainability. Also ensured existing TypeScript checks and test suites run successfully, with only machine‑dependent performance benchmarks noted in the PR discussion. (PR [#11](https://github.com/orchetron/storm/pull/11))
 
 <!-- Achievements & Certifications -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=Turning+ideas+into+impact+%F0%9F%8F%86;Hackathons%2C+innovation%2C+and+continuous+learning+%F0%9F%9A%80;Building+skills+through+projects+and+achievements+%F0%9F%8C%9F" alt="Achievements Typing Animation" />
+</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Achievements%20%26%20Certifications&fontSize=28&fontColor=fff&animation=fadeIn" />
 
 <p align="center">
