@@ -84,6 +84,14 @@
 
 ---
 
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Open%20Source&fontSize=28&fontColor=fff&animation=fadeIn" />
+
+### 🌱 Recent Open Source Contributions
+
+- [Storm](https://github.com/orchetron/storm): Contributed to the devtools demo of this compositor-based terminal UI framework by replacing an imperative `setInterval` timer with the framework’s `useTick` hook, aligning the example with project best practices and improving readability and maintainability. Also ensured existing TypeScript checks and test suites run successfully, with only machine‑dependent performance benchmarks noted in the PR discussion. (PR [#11](https://github.com/orchetron/storm/pull/11))
+
 <!-- Achievements & Certifications -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Achievements%20%26%20Certifications&fontSize=28&fontColor=fff&animation=fadeIn" />
 
